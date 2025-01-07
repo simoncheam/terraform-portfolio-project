@@ -12,7 +12,7 @@
 /.next/
 
 # //? remove
-/out/
+#/out/
 
 # production
 /build
@@ -30,3 +30,5 @@ yarn-error.log*
 .env.development.local
 .env.test.local
 .env.production.local
+/terraform-js/.terraform
+/nextjs-blog/terraform-js/.terraform*
